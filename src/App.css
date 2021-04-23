@@ -1,0 +1,31 @@
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.marginZ {
+    margin: 0;
+}
+.tagName {
+    padding: 5px;
+}
+.dpLogo {
+    padding: 12px;
+    margin-left: 15px;
+}
+.dpName {
+    padding-top: 15px;
+}
+.dpName span {
+    font-size: 12px;
+}
+ul li {
+    list-style: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+ul {
+    margin: 10px;
+    padding: 10px;
+}
